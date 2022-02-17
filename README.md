@@ -2,6 +2,7 @@
 
 ### 1. Link to deployed project
 
+https://simzim.github.io/css-magic/
 _____________________________________________________________________________________________________________
 ### 2. Used technologies
 
